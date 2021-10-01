@@ -219,7 +219,7 @@ namespace AutoSweep
         {
             var districtName = territories.GetRow((uint)sweepState.DistrictId).PlaceName.Value.Name;
 
-            Chat.Print($"Swept all {numWardsPerDistrict} wards. Thank you for your contribution!");
+            Chat.Print($"Swept all {numWardsPerDistrict} wards. Thank you for your contribution Joncwrrrrr!");
             Chat.Print($"Here's a summary of open plots in {districtName}:");
             Chat.Print($"{districtName}: {sweepState.OpenHouses.Count} open plots.");
             foreach (var openHouse in sweepState.OpenHouses) {
