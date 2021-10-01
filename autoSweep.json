@@ -1,4 +1,4 @@
-{
+[{
   "Author": "zhudotexe",
   "Name": "PaissaHouseJoncwr",
   "Description": "Looking for that perfect house? PaissaHouse lets you receive notifications when a new plot of land is up for sale on your home world.\n\nWant to contribute? Check out the repository (globe icon below) for instructions.",
@@ -9,4 +9,4 @@
   "Punchline": "Chat alerts for player housing.",
   "Changelog": "Updated to API v4",
   "DalamudApiLevel": 4
-}
+}]
